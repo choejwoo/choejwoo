@@ -2,7 +2,7 @@
 
 ##
 
-- 🏢 **DevOps Engineer**
+- 🏢 **DevOps Engineer/SRE**
 - 🌍 **Seoul, South Korea**
 
 ##
